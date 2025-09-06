@@ -1,0 +1,48 @@
+{
+  "nav.home": "Biblical Counselling",
+  "nav.about": "About",
+  "nav.topics": "Topics",
+  "nav.chat": "AI Assistant",
+  "nav.contact": "Contact",
+  "nav.pricing": "Pricing",
+  
+  "home.title": "Biblical Counselling",
+  "home.welcome": "Welcome! Biblical Counselling offers biblical encouragement and guidance. It is not a substitute for professional counseling, medical, legal, or emergency services.",
+  "home.getStarted": "Get Started",
+  "home.browseTopics": "Browse Topics",
+  "home.tryAssistant": "Try the AI Assistant",
+  "home.learnMore": "Learn More",
+  "home.verseOfDay": "Verse of the day",
+  "home.explore": "Explore",
+  
+  "topics.title": "Counseling Topics",
+  "topics.description": "Find biblical guidance for various life challenges and situations",
+  "topics.browseAll": "Browse All Topics",
+  "topics.searchPlaceholder": "Search topics...",
+  "topics.noResults": "No topics found",
+  
+  "chat.title": "AI Biblical Counselor",
+  "chat.description": "Get personalized biblical guidance and encouragement through AI-powered conversation",
+  "chat.placeholder": "Ask about counseling topics...",
+  "chat.startConversation": "Start conversation",
+  "chat.send": "Send",
+  "chat.tips": "Tips",
+  "chat.previousTip": "Previous tip",
+  "chat.nextTip": "Next tip",
+  
+  "about.title": "About Biblical Counselling",
+  "about.description": "Learn more about our mission and approach to biblical counseling",
+  
+  "pricing.title": "Pricing & Contact",
+  "pricing.description": "Choose a plan that fits your needs",
+  
+  "common.back": "Back",
+  "common.loading": "Loading...",
+  "common.error": "An error occurred",
+  "common.notFound": "Not Found",
+  "common.home": "Home",
+  
+  "footer.copyright": "© 2024 Biblical Counselling. All rights reserved.",
+  "footer.privacy": "Privacy Policy",
+  "footer.terms": "Terms of Service"
+}

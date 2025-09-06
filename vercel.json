@@ -1,0 +1,10 @@
+{
+  "env": {
+    "FREE_TIER": "on"
+  },
+  "build": {
+    "env": {
+      "FREE_TIER": "on"
+    }
+  }
+}

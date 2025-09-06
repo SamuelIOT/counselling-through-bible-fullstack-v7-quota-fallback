@@ -1,0 +1,50 @@
+{
+  "nav.home": "성경 중심 상담",
+  "nav.about": "소개",
+  "nav.topics": "상담 주제",
+  "nav.chat": "AI 도우미",
+  "nav.contact": "연락처",
+  "nav.pricing": "가격",
+  
+  "home.title": "성경 중심 상담",
+  "home.welcome": "환영합니다! 성경 중심 상담은 성경적 격려와 안내를 제공합니다. 이는 전문 상담, 의료, 법적 또는 응급 서비스의 대체물이 아닙니다.",
+  "home.getStarted": "시작하기",
+  "home.browseTopics": "상담 주제 보기",
+  "home.tryAssistant": "AI 도우미 체험하기",
+  "home.learnMore": "자세히 보기",
+  "home.verseOfDay": "오늘의 말씀",
+  "home.explore": "살펴보기",
+  
+  "topics.title": "상담 주제",
+  "topics.description": "다양한 삶의 도전과 상황에 대한 성경적 도움과 인도를 찾아보세요",
+  "topics.browseAll": "모든 주제 보기",
+  "topics.searchPlaceholder": "주제 검색...",
+  "topics.noResults": "찾을 수 없습니다",
+  
+  "chat.title": "AI 도우미",
+  "chat.description": "AI 기반 대화로 개인 맞춤형 성경적 안내와 격려를 받아보세요. AI는 도구일 뿐 상담사가 아닙니다 — 항상 성경으로 돌아가 성령의 움성과 조언을 들으세요.",
+  "chat.placeholder": "상담 주제에 대해 물어보세요",
+  "chat.startConversation": "대화를 시작해 보세요",
+  "chat.send": "전송",
+  "chat.tips": "도움말: 다음의 예문을 클릭하시고 '전송'을 눌러 보세요.",
+  "chat.previousTip": "이전 도움말",
+  "chat.nextTip": "다음 도움말",
+  
+  "about.title": "성경 상담 소개",
+  "about.description": "우리의 사명과 성경 상담 접근 방식에 대해 자세히 알아보세요",
+  
+  "pricing.title": "가격 및 연락처",
+  "pricing.description": "귀하의 필요에 맞는 계획을 선택하세요",
+  
+  "common.back": "뒤로",
+  "common.loading": "로딩 중...",
+  "common.error": "오류가 발생했습니다",
+  "common.notFound": "찾을 수 없습니다",
+  "common.home": "홈",
+  
+  "footer.copyright": "© 2024 성경 상담. 모든 권리 보유.",
+  "footer.privacy": "개인정보 보호정책",
+  "footer.terms": "이용약관"
+}
+
+
