@@ -59,7 +59,7 @@ export default function AboutClient() {
               <li>
                 <span className="font-semibold">AI 도우미:</span> 질문하고 성경과 선택한 주제를 
                 참조하는 AI의 도움을 받으세요. AI는 도구일 뿐 교사가 아닙니다 — 항상 성경으로 돌아가  
-                성령의 움성과 조언을 들으세요 (사도행전 17:11).
+                성령의 음성과 조언을 들으세요 (사도행전 17:11).
               </li>
               <li>
                 <span className="font-semibold">연락처:</span> 성경에 기초한 상담, 회복, 치유, 희망, 사랑, 믿음과 기도의 도움이 필요하시면 
