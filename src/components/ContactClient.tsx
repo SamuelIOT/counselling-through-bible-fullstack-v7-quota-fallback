@@ -15,9 +15,9 @@ export default function ContactClient() {
           <h1 className="text-3xl font-bold">대면 상담 연락처</h1>
 
           <p className="text-lg leading-relaxed">
-            이 말씀으로 회복을 돕는 프로그램에 참여하도록 여러분을 초대합니다. 우리의 목표는 성경말씀, 기도, 
+            성경 말씀으로 권면과 회복을 돕는 이 프로그램에 참여하도록 여러분을 초대합니다. 우리의 목표는 성경말씀, 기도, 
             실용적인 상담을 통해 그리스도 안에서 여러분을 격려하고 치유와 회복을 돕는 것입니다. 디지털 도구도 유용하고
-            도움이 되지만, 실제 회복의 역사는 공동체에서 가장 잘 이루어지고 있습니다. 가능하다면, 인격적인 대면 상당을 
+            도움이 되지만, 실제 회복의 역사는 공동체에서 가장 잘 이루어지고 있습니다. 가능하다면, 인격적인 대면 상담을 
             생각해 보기길 권면합니다. 
           </p>
 
@@ -29,11 +29,17 @@ export default function ContactClient() {
 
             <h2 className="text-xl font-semibold mb-3">연락처: 성경적 상담 사역</h2>
 			<p className="mb-4">
-				<strong>Email:</strong> 
+				<strong>전자메일:</strong> 
 				<a href="mailto:eunice8808242@gmail.com" className="underline ml-2">
 					eunice8808242@gmail.com
 				</a>
 			</p>
+
+			<p className="mb-4">
+				<strong>전화나 문자: </strong>
+				<a href="tel:01039597707">010-3959-7707</a>
+			</p>
+
 
             <h3 className="text-lg font-semibold mb-2">
               대학 캠퍼스/커뮤니티 말씀 중심 상담 사역 (SNU, 서울) — 성경적 상담 사역:

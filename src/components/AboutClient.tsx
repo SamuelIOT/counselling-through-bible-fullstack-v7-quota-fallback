@@ -89,7 +89,7 @@ export default function AboutClient() {
           <Panel id="in-person">
             <h2 className="text-xl font-semibold">대면 성경 상담</h2>
             <p className="mt-2">
-              디지털 도구는 도움이 되지만, 실제 회복의 역사는 공동체에서 가장 잘 이루어지고 있습니다. 가능하다면, 인격적인 대면 상당을 
+              디지털 도구는 도움이 되지만, 실제 회복의 역사는 공동체에서 가장 잘 이루어지고 있습니다. 가능하다면, 인격적인 대면 상담을 
             생각해 보기길 권면합니다. 
             </p>
             <ul className="list-disc pl-6 space-y-2 mt-2">
@@ -99,10 +99,8 @@ export default function AboutClient() {
                 많은 교회들이 성경과 기도에 뿌리를 둔 사생활 기밀 유지, 무료 돌봄을 제공합니다.
               </li>
               <li>
-                <span className="font-semibold">캠퍼스/커뮤니티 상담사 (SNU, 서울):</span>{' '}
-                <a href="mailto:eunice8808242@gmail" className="underline">
-                  eunice8808242@gmail.com
-                </a>{' '}
+                <span className="font-semibold">캠퍼스/커뮤니티 상담사역 (SNU, 서울)</span>{' '}
+
                 — 성경 중심으로 상담 및 학생 전도사역. 우리 커뮤니티는 국제 복음주의 교회(비교파)이며 
                 그리스도와 그분의 나라에 헌신된 교회 네트워크입니다. 우리의 주요 
                 초점은 성경을 공부하고, 우리 주님이자 구주 예수 그리스도의 은혜와 
